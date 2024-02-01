@@ -1,6 +1,7 @@
 # Battleship Game
 
-Battleship Game implemented in Ocaml, utilizing the state monad. Play against the computer, strategically place your ships, and take shots to sink the opponent's fleet!
+Battleship Game implemented in Ocaml, utilizing the state monad. 
+Play against the computer, strategically place your ships, and take shots to sink the opponent's fleet!
 
 ## How to Run:
 
